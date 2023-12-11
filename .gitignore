@@ -160,3 +160,7 @@ cython_debug/
 #.idea/
 
 volumes/
+*.mp3
+urls.txt
+*.pdf
+.DS_Store
