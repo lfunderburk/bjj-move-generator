@@ -1,2 +1,3 @@
-farm-haystack"[inference,crawler]"
+pypdf==3.17.2
 milvus-haystack
+haystack-ai==2.0.0b
